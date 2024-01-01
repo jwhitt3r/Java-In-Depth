@@ -2,20 +2,21 @@
 
 ## Session Details
 
-- **Date:**
-- **Time Started:**
-- **Task/Topic:**
+- **Date:** 2024/01/01
+- **Time Started:** 13:00 GMT / 18:00
+- **Task/Topic:** Object Orientated Programming
 
 ## Pomodoro Cycles
 
 ### Cycle 1
 - **Focus Duration:** 25 minutes
 - **Break Duration:** 5 minutes
-- **Accomplishments:**
-    - [ ] Pomodoro 1
-    - [ ] Pomodoro 2
-    - [ ] Pomodoro 3
-    - [ ] Pomodoro 4
+- **Accomplishments:** Got through the initial video and exercises of the inheritance and wrote a full unit test suit 
+for the exercise
+    - [X] Pomodoro 1
+    - [X] Pomodoro 2
+    - [X] Pomodoro 3
+    - [X] Pomodoro 4
 
 ### Cycle 2
 - **Focus Duration:** 25 minutes
@@ -37,8 +38,8 @@
 
 ## Notes and Reflection
 
-- **Challenges Faced:**
-- **Break Activities:**
+- **Challenges Faced:** Writing the unit tests takes some time. I also seem to get distracted with my second monitor when focusing.
+- **Break Activities:** Made tea
 - **Overall Reflection:**
 
 ## Session End
