@@ -12,7 +12,7 @@ public class AnimalInheritance {
 
     @Override
     public String toString() {
-        return "AnimalInheritence{" +
+        return "AnimalInheritance{" +
                 "type='" + type + '\'' +
                 ", voice='" + voice + '\'' +
                 '}';
