@@ -4,9 +4,7 @@ public class BankConstructorExample {
     private final String accountNumber;
     private final double accountBalance;
     private final String customerName;
-
     private final String email;
-
     private final String phoneNumber;
 
     public BankConstructorExample(String accountNumber, double accountBalance, String customerName, String email, String phoneNumber) {
