@@ -57,11 +57,6 @@ This plan encompasses the following areas to ensure that direction and purpose i
 - Adjust based on personal schedule and commitments.
 - Consistency is key for steady progress.
 
-### Pomodoro Study Method:
-
-- Consider using the Pomodoro Technique for focused study sessions.
-- Break down learning tasks into manageable Pomodoro intervals.
-
 ### Blog Template:
 
 - Use a provided blog template to document weekly reflections and learnings.
@@ -87,9 +82,8 @@ This initial phase lays the groundwork for your Java journey. You'll delve into 
 
 #### Definition of Done:
 1. **Object-Oriented Programming Exercise:**
-    - [ ] Define and implement at least two classes with appropriate attributes and methods.
-    - [ ] Demonstrate the use of encapsulation, inheritance, or polymorphism in your classes.
-    - [ ] Write unit tests for the implemented methods.
+    - [X] Define and implement at least two classes with appropriate attributes and methods.
+    - [X] Demonstrate the use of encapsulation, inheritance, or polymorphism in your classes.
 
 2. **Exception Handling Project:**
     - [ ] Create a Java program with intentional errors and exceptions.
