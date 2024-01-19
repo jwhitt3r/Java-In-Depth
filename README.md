@@ -96,7 +96,7 @@ This initial phase lays the groundwork for your Java journey. You'll delve into 
     - [X] Write unit tests to verify the functionality of the Library class.
 
 4. **Reading Material:**
-    - Object-Oriented Programming: "Head First Java" by Kathy Sierra and Bert Bates, [Oracle's Java Tutorials on Classes and Objects](https://docs.oracle.com/javase/tutorial/java/javaOO/index.html)
+    - Object-Oriented Programming: "Head First Java" by Kathy Sierra and Bert Bates (Chapters 7 and 8), [Oracle's Java Tutorials on Classes and Objects](https://docs.oracle.com/javase/tutorial/java/javaOO/index.html)
     - Exception Handling: "Effective Java" by Joshua Bloch (Chapter 10: Exceptions), [Oracle's Java Tutorials on Exceptions](https://docs.oracle.com/javase/tutorial/essential/exceptions/index.html)
     - JUnit Testing: "JUnit in Action" by Petar Tahchiev, Felipe Leme, Vincent Massol, and Gary Gregory, [JUnit 5 User Guide](https://junit.org/junit5/docs/current/user-guide/)
     - **Security Awareness:**
