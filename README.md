@@ -86,14 +86,14 @@ This initial phase lays the groundwork for your Java journey. You'll delve into 
     - [X] Demonstrate the use of encapsulation, inheritance, or polymorphism in your classes.
 
 2. **Exception Handling Project:**
-    - [ ] Create a Java program with intentional errors and exceptions.
-    - [ ] Implement proper exception handling to handle different types of exceptions.
-    - [ ] Write unit tests to validate the correctness of exception handling.
+    - [X] Create a Java program with intentional errors and exceptions.
+    - [X] Implement proper exception handling to handle different types of exceptions.
+    - [X] Write unit tests to validate the correctness of exception handling.
 
 3. **Mini Library System:**
-    - [ ] Define classes for Book, User, and Library with appropriate attributes and methods.
-    - [ ] Implement methods in the Library class for adding books, checking out books, and returning books.
-    - [ ] Write unit tests to verify the functionality of the Library class.
+    - [X] Define classes for Book, User, and Library with appropriate attributes and methods.
+    - [X] Implement methods in the Library class for adding books, checking out books, and returning books.
+    - [X] Write unit tests to verify the functionality of the Library class.
 
 4. **Reading Material:**
     - Object-Oriented Programming: "Head First Java" by Kathy Sierra and Bert Bates, [Oracle's Java Tutorials on Classes and Objects](https://docs.oracle.com/javase/tutorial/java/javaOO/index.html)
@@ -115,20 +115,16 @@ In these weeks, you'll advance to core Java concepts, exploring generic data str
 1. **Generic Data Structures and Collections Project:**
     - [ ] Implement generic classes for common data structures (e.g., Linked Lists, Stacks, Queues, Lists, Sets, and Maps).
     - [ ] Write comprehensive unit tests for the generic data structures.
-2. **Streams Exercise:**
-    - [ ] Create a simple Java program utilizing Streams for data manipulation.
-    - [ ] Apply basic Stream operations such as filter, map, and forEach.
-    - [ ] Write unit tests to verify the correctness of Stream operations.
 
-3. **Multithreading Project:**
+2. **Multithreading Project:**
     - [ ] Create a program that demonstrates the use of multithreading for parallel processing.
     - [ ] Write unit tests to ensure the correctness of the multithreading implementation.
 
-4. **File Compression Utility Project:**
+3. **File Compression Utility Project:**
     - [ ] Build a file compression/decompression utility using Java I/O operations.
     - [ ] Write unit tests to validate the functionality of the file compression utility.
 
-5. **Reading Material:**
+4. **Reading Material:**
     - Generic Data Structures: "Java Generics and Collections" by Maurice Naftalin and Philip Wadler, [Oracle's Java Tutorials on Generics](https://docs.oracle.com/javase/tutorial/java/generics/index.html)
     - Multithreading: "Java Concurrency in Practice" by Brian Goetz, [Oracle's Java Tutorials on Concurrency](https://docs.oracle.com/javase/tutorial/essential/concurrency/)
     - File I/O and Compression: "Java: The Complete Reference" by Herbert Schildt, [Oracle's Java Tutorials on File I/O](https://docs.oracle.com/javase/tutorial/essential/io/index.html)
@@ -136,7 +132,7 @@ In these weeks, you'll advance to core Java concepts, exploring generic data str
         - Read: "Secure Coding Guidelines for Java SE" by Oracle
         - Explore: [Java Secure Coding Guidelines](https://www.oracle.com/java/technologies/javase/seccodeguide.html)
 
-6. **Video Material:**
+5. **Video Material:**
     - [Java 17 Masterclass by Tim Buchalka: Generics](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/36747436#overview)
         - Supplementary - [Programming with Mosh by Mosh Hamedani: Generics](https://www.youtube.com/watch?v=7i3Rliqzquw&list=PLTjRvDozrdlyjm_nKyYt4b5C1zx4Xdaut&index=3)
     - [Java 17 Masterclass by Tim Buchalka: Threading](https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/40562738#overview)
