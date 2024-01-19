@@ -4,7 +4,6 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
@@ -35,7 +34,7 @@ public class LibraryTest {
   public void testAddBook() {
     library.addBook(book1);
     assertEquals(1, library.getBooks().size());
-    assertEquals(book1, library.getBooks().get(0));
+    assertEquals(book1, library.getBooks().getFirst());
   }
 
   @Test
