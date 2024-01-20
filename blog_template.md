@@ -1,6 +1,6 @@
 # Blog Template
 ```text
-Week [Week Number]: [Topic Name]
+Week [Topic Name]: [Week Number]
 Summary:
 
 Briefly summarize the main concepts and tasks covered during this week.

@@ -18,12 +18,12 @@ public class LibraryTest {
   @BeforeEach
   public void setUp() {
     library = new Library();
-    book1 = new Book("Moby Dick", "ID1", 500, Arrays.asList("Author 1", "Author 2"));
+    book1 = new Fiction("Moby Dick", "ID1", 500, Arrays.asList("Author 1", "Author 2"), "fantasy");
     book1.setTitle("Book Title 1");
     book1.setId("BookID1");
     book1.setPageCount(200);
     book1.setAuthor(Arrays.asList("Author 1", "Author 2"));
-    book2 = new Book("1984", "ID3", 700, Arrays.asList("Author 1", "Author 2"));
+    book2 = new Fiction("1984", "ID3", 700, Arrays.asList("Author 1", "Author 2"), "fantasy");
     book2.setTitle("Book Title 2");
     book2.setId("BookID2");
     book2.setPageCount(300);

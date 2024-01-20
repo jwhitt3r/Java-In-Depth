@@ -21,7 +21,7 @@ class BookTest {
 
   @BeforeEach
   public void setUp() {
-    book = new Book("Moby Dick", "ID1", 500, authors);
+    book = new Fiction("Moby Dick", "ID1", 500, authors, "fantasy");
   }
 
   @Test
