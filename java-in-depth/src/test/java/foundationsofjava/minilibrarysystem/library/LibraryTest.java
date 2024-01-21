@@ -41,7 +41,7 @@ public class LibraryTest {
   }
 
   @Test
-  @DisplayName("Check out  of a book")
+  @DisplayName("Check out of a book")
   public void testCheckoutBook(){
     library.checkoutBook(book1);
     assertEquals(0, library.getBooks().size());

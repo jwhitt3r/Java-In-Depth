@@ -3,32 +3,29 @@ package foundationsofjava.minilibrarysystem.library;
 import foundationsofjava.minilibrarysystem.library.bookformat.Book;
 import foundationsofjava.minilibrarysystem.library.bookformat.Fiction;
 
-import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
+
 public class App {
+
+  private static final Library library = new Library();
+
   public static void main(String[] args) {
-    // Create a new library
-    Library library = new Library();
-
-    // Create new books
-    List<String> authors = new ArrayList<>();
-    List<String> coverURLS = new ArrayList<>();
-
-    authors.add("Author Name");
-    coverURLS.add("www.google.com");
-    Book book1 = new Fiction("Moby Dick", "ID1", 500, authors, "fantasy", coverURLS);
-    Book book2 = new Fiction("To Kill a Mockingbird", "ID2", 400, authors, "fantasy", coverURLS);
-    Book book3 = new Fiction("1984", "ID3", 700, authors, "children", coverURLS);
-
-    // Add books to library
-    library.addBook(book1);
-    library.addBook(book2);
-    library.addBook(book3);
-
+    // Create new books and add them to the library
+    createBook("Moby Dick", "ID1", 500, "fantasy");
+    createBook("To Kill a Mockingbird", "ID2", 400, "fantasy");
+    createBook("1984", "ID3", 700, "children");
     // List all books in library
     List<Book> books = library.getBooks();
     for (Book book : books) {
       System.out.println("Title: " + book.getTitle() + ", Author: " + book.getAuthor());
     }
+  }
+
+  public static void createBook(String title, String id, int pageCount, String genre) {
+    List<String> authors = Collections.singletonList("Author Name");
+    List<String> coverURLS = Collections.singletonList("www.google.com");
+    Book newBook = new Fiction(title, id, pageCount, authors, genre, coverURLS);
+    library.addBook(newBook);
   }
 }

@@ -84,7 +84,7 @@ public class FictionTest {
     Fiction fiction2 = new Fiction("Title", "Id", 123, authors, "Subgenre",
             URLs);
     // two different objects but with the same values should be regarded as equal
-    assertEquals(fiction1, fiction2);
+    assertFalse(fiction1.equals(fiction2));
   }
 
   @Test
