@@ -1,4 +1,4 @@
-package foundationsofjava.minilibrarysystem.library;
+package foundationsofjava.minilibrarysystem.library.bookformat;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -18,10 +18,11 @@ class BookTest {
   String title = "The Great Book";
   int pageCount = 100;
   List<String> authors = Arrays.asList("Author1", "Author2");
+  List<String> coverURLS = Arrays.asList("www.google.com", "www.example.com");
 
   @BeforeEach
   public void setUp() {
-    book = new Fiction("Moby Dick", "ID1", 500, authors, "fantasy");
+    book = new Fiction("Moby Dick", "ID1", 500, authors, "fantasy", coverURLS);
   }
 
   @Test
@@ -62,4 +63,5 @@ class BookTest {
             + '}';
     assertEquals(expected, book.toString());
   }
+
 }
