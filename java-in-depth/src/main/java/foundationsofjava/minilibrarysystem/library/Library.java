@@ -28,10 +28,11 @@ public class Library {
     books.add(book);
   }
 
+
   /**
    * Removes a book from the library.
    *
-   * @param book The book to be removed.
+   * @param book the book to be removed
    */
   public void removeBook(Book book) {
     books.remove(book);

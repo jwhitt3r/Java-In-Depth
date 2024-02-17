@@ -113,8 +113,8 @@ In these weeks, you'll advance to core Java concepts, exploring generic data str
 
 #### Definition of Done:
 1. **Generic Data Structures and Collections Project:**
-    - [ ] Implement generic classes for common data structures (e.g., Linked Lists, Stacks, Queues, Lists, Sets, and Maps).
-    - [ ] Write comprehensive unit tests for the generic data structures.
+    - [X] Implement generic classes for common data structures (e.g., Linked Lists, ~~Stacks, Queues, Lists, Sets, and Maps~~).
+    - [X] Write comprehensive unit tests for the generic data structures.
 
 2. **Multithreading Project:**
     - [ ] Create a program that demonstrates the use of multithreading for parallel processing.

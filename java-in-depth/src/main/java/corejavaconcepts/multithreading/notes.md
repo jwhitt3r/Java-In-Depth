@@ -59,7 +59,3 @@
 - **Questions:**
     - List any questions or uncertainties for future exploration.
 
-## Review
-
-- **Review Date:**
-    - Schedule a date to review the week's material for reinforcement.

@@ -128,9 +128,5 @@ public class Main {
     - I loose focus easily when the material is very boring and dry. It maybe worth copying the text into a nicer format than the glaring website format. In addition, it could be nicer to increase the font size when reading to put less strain on the eyeballs
 
 - **Questions:**
-    - Would further reading on object oritentated design be something I should in if there is time within the 24 weeks?
+    - Would further reading on object orientated design be something I should in if there is time within the 24 weeks?
 
-## Review
-
-- **Review Date:**
-    - Check in on: 08/02/2024

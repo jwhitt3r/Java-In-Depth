@@ -2,11 +2,13 @@
 
 ## Key Concepts
 
-- **Objectives:** Briefly list the main learning objectives for the week.
+- **Objectives:** Understand exceptional event handling in Java
 
 - **Core Concepts:**
-    - List the core concepts covered during the week.
-    - Use bullet points for clarity.
+    - Exception Handling
+    - Exception Chaining
+    - Exception Translation
+    - Types of Exceptions
 
 ## Hands-On Practice
 
@@ -189,8 +191,3 @@ public class ExceptionChainingExample {
 
 - **Questions:**
     - When would I use exception chaining and how deep do you go?
-
-## Review
-
-- **Review Date:**
-    - 14/01/2024

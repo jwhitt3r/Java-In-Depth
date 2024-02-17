@@ -2,64 +2,55 @@
 
 ## Key Concepts
 
-- **Objectives:** Briefly list the main learning objectives for the week.
+- **Objectives:** Create a small library system
 
 - **Core Concepts:**
-    - List the core concepts covered during the week.
-    - Use bullet points for clarity.
+    - Class hierarchies
+    - Collections of relatable objects based on a super class
 
 ## Hands-On Practice
 
 - **Code Snippets:**
-    - Document essential code snippets and examples.
-    - Include explanations for each snippet.
+   N/A
 
 - **Projects:**
-    - Outline the key features or tasks for any projects you worked on.
-    - Mention challenges faced and how they were addressed.
+    - A book is defined as the super class and varying genres can inherit from it along for suitable class hierarchy
+    - Collections of relatable books can be established within the library based on genre
 
 ## Challenges and Solutions
 
 - **Challenges:**
-    - Identify any challenges or difficulties encountered.
-    - Describe them briefly.
+    - N/A
 
 - **Solutions:**
-    - Document solutions, workarounds, or resources that helped overcome challenges.
+    - N/A
 
 ## Reflection
 
 - **What Went Well:**
-    - Highlight aspects of the week that went smoothly.
+    - Class hierarchies have become easier to understand as they are based on relationships
 
 - **Areas for Improvement:**
-    - Identify areas where further review or practice may be beneficial.
+    - N/A
 
 ## Additional Resources
 
 - **Reading Materials:**
-    - List any additional reading materials or articles explored.
-
-- **Video Tutorials:**
-    - Include links to relevant video tutorials watched.
+    - Object Orientated Design is something that should be reviewed as part of any development learning program
 
 ## Future Focus
 
 - **Key Takeaways:**
-    - Summarize the most important insights gained.
+    - Think about how the classes are structured and how a class may inherit or be composed of one another
 
 - **Next Steps:**
-    - Outline specific topics or areas you plan to explore further.
+    - Review generics to understand how this could improve the library
 
 ## Personal Notes
 
 - **Personal Observations:**
-    - Include any personal insights, analogies, or real-world connections made.
+    - It has been fun combining my knowledge together with some small but extensible
 
 - **Questions:**
-    - List any questions or uncertainties for future exploration.
+    - How does generics improve readability and flexibility
 
-## Review
-
-- **Review Date:**
-    - Schedule a date to review the week's material for reinforcement.
